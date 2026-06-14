@@ -1,0 +1,40 @@
+{
+  "project": {
+    "name": "Black Heart Tattoo",
+    "slug": "black-heart-tattoo",
+    "language": "hu"
+  },
+  "business": {
+    "name": "Black Heart Tattoo",
+    "industry": "Tetoválószalon",
+    "city": "Kecskemét",
+    "tier": "Tier 1",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "address": "Kisfaludy utca 2, 6000 Kecskemét",
+      "facebook": "https://www.facebook.com/blackheartkecskemet",
+      "instagram": null
+    }
+  },
+  "design": {
+    "colors": {
+      "primary": "#141414",
+      "secondary": "#E0E0E0"
+    },
+    "fonts": {
+      "heading": "Inter",
+      "body": "Bebas Neue"
+    }
+  },
+  "sections": [
+    "hero",
+    "services",
+    "about",
+    "gallery",
+    "booking-form",
+    "contact",
+    "footer"
+  ],
+  "full_prompt": "Készíts egy magyar nyelvű, egyoldalas landing page-et egy tetoválószalonnak:\n \n AZ ÜZLET ADATAI:\n - Név: Black Heart Tattoo\n - Cím: Kisfaludy utca 2, 6000 Kecskemét (belváros)\n - Facebook: facebook.com/blackheartkecskemet\n - Tulajdonos: Pintér Judit | Alapítva: 2019\n - Szolgáltatások: Egyedi tetoválás, tervezés, konzultáció\n \n DESIGN:\n - Stílus: Sötét, merész, művészi, urban\n - Színek: Mélyfekete (#141414) fejlécekhez/háttérhez, vörös (#C0392B) kiemelésekhez, világosszürke (#E0E0E0) szöveghez, ezüst (#9A9A9A) másodlagos elemekhez\n - Betűtípus: Erős, karakteres (pl. Bebas Neue címekhez, Inter szöveghez)\n \n FELÉPÍTÉS (egyetlen görgethető oldal):\n 1. Hero szekció: \"Black Heart Tattoo — Kecskemét\", szlogen (\"Egyedi tetoválás, kézzel tervezve\"), CTA: \"Konzultáció kérése\"\n 2. Szolgáltatások: Egyedi tetoválás, tervezés, konzultáció, fedés/javítás — rövid leírás\n 3. Portfólió/Galéria: 8-10 kép placeholder (kiemelt szerep — ez a legfontosabb szekció)\n 4. Rólunk: Judit és a szalon bemutatkozása, stílus, tapasztalat (2019 óta)\n 5. Időpontfoglalás/Konzultáció űrlap: Név, telefon, tetoválás ötlet leírása, méret, testtáj, referenciakép feltöltés lehetősége\n 6. Elérhetőség: Cím, nyitvatartás, Google Maps\n 7. Lábléc: Facebook, Instagram, cím, © 2026\n \n HANGNEM: Menő, művészi, közvetlen, hiteles. Tegező.\n \n TECHNIKAI: Mobilbarát, reszponzív. Nagy felbontású, nagyítható galéria."
+}
